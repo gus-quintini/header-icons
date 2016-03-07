@@ -1,0 +1,60 @@
+html {
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  border: 1px solid #fff;
+}
+
+li {
+  list-style-type: none;
+  float: left;
+  font-weight: bold;
+  width: 25%;
+}
+
+h1 {
+  float: none;
+  font-size: 2rem;
+  background-color: #d05c2e;
+  color: #fff;
+  padding: 1.5em 1.5em;
+  margin: 0;
+}
+
+img {
+  width: 10%;
+}
+
+.grainright {
+  float: right;
+}
+
+.grainleft {
+  float: left;
+}
+
+.box1 {
+  background-color: #d05c2e;
+  color: #fff;
+  border: 1px solid #a63f38;
+}
+
+.box2 {
+  background-color: #d05c2e;
+  color: #fff;
+  border: 1px solid #a63f38;
+}
+
+.box3 {
+  background-color: #d05c2e;
+  color: #fff;
+  border: 1px solid #a63f38;
+}
